@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Buy Gmail Accounts</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #222;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    h2 {
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      background: #28a745;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    .payment-box {
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      padding: 15px;
+      border-radius: 10px;
+      margin-top: 30px;
+    }
+    .payment-box h3 {
+      margin-top: 0;
+      color: #d6336c;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #222;
+      color: white;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Buy Gmail Accounts</h1>
+    <p>Fast delivery | Verified accounts | Affordable prices</p>
+  </header>
+
+  <div class="container">
+    <h2>Available Accounts</h2>
+    <table>
+      <tr>
+        <th>Type</th>
+        <th>Details</th>
+        <th>Price</th>
+        <th>Order</th>
+      </tr>
+      <tr>
+        <td>Fresh Gmail</td>
+        <td>Newly created, phone verified</td>
+        <td>৳50</td>
+        <td><a class="btn" href="https://wa.me/8801XXXXXXXXX?text=I want to buy a Fresh Gmail">Buy Now</a></td>
+      </tr>
+      <tr>
+        <td>Old Gmail</td>
+        <td>6+ months old, activity included</td>
+        <td>৳100</td>
+        <td><a class="btn" href="https://wa.me/8801XXXXXXXXX?text=I want to buy an Old Gmail">Buy Now</a></td>
+      </tr>
+    </table>
+
+    <div class="payment-box">
+      <h3>Payment Info</h3>
+      <p><strong>bKash:</strong> 01408997415 (Personal)</p>
+      <p><strong>Nagad:</strong> 01330896431 (Personal)</p>
+      <p><strong>Note:</strong> পেমেন্ট করার পর নিচের বাটনে ক্লিক করে WhatsApp-এ ট্রান্সেকশন আইডি ও স্ক্রিনশট পাঠান।</p>
+      <a class="btn" href="https://wa.me/8801408997415?text=Payment done. Here is my screenshot and transaction ID:">Send Payment Info</a>
+    </div>
+
+  </div>
+
+  <footer>
+    &copy; 2025 GmailSeller. All rights reserved.
+  </footer>
+
+</body>
+</html>
